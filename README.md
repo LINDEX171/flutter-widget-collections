@@ -51,5 +51,7 @@ Click on "New Issue" in the Issues tab.<br>
 Provide a clear and detailed description of the problem.<br>
 If possible, include error messages, screenshots, or steps to reproduce the issue.<br>
 
+## 📜 License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
