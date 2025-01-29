@@ -45,6 +45,11 @@ git checkout -b my-new-widget
   -Submit the PR and wait for feedback.<br>
 
 
+### ❓ Need Help or Facing Issues?
+If your have issues , feel free to create a new issue:<br>
+Click on "New Issue" in the Issues tab.<br>
+Provide a clear and detailed description of the problem.<br>
+If possible, include error messages, screenshots, or steps to reproduce the issue.<br>
 
 
 
