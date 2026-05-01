@@ -1,6 +1,6 @@
 # 🚀 Flutter Widgets Collection  
 
-Welcome to **Flutter Widgets Collection**, an open-source repository featuring a variety of Flutter widgets for developers of all levels, from beginners to experienced professionals. 🎯  
+Welcome to **Flutter Widgets Collection**, an open-source repository featuring a variety of Flutter widgets for developers of all levels, from beginners to experienced professionals. 
 
 ## 🌟 About  
 This project aims to provide a collection of reusable and well-documented widgets to simplify Flutter development. Whether you're just starting with Flutter or looking to streamline your workflow, you'll find ready-to-use components to enhance your applications.  
